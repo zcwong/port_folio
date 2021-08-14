@@ -970,6 +970,7 @@ a:link, a:visited {
   transition-duration: 0.4s;
    text-decoration: none;
    border-radius: 20px;
+   font-weight: 650;
 }
 
 .button_2:hover {
